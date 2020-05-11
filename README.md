@@ -1,6 +1,8 @@
 # deep-learning-zero-to-all
 
-*[Sung Kim](https://github.com/hunkim), the great Computer Science professor of HKUST, makes great lecture for machine learning beginners to teach ML basic ideas and How to use Tensorflow. I keep practicing to make some machine learning models using TF. All of these video clips and codes are authorized by Sung Kim. Enjoy studying machine learning!*
+*[Sung Kim](https://github.com/hunkim), learning Computer Science in HKUST, makes great lectures for machine learning beginners to teach ML basic ideas and how to use Tensorflow.*
+
+*I keep practicing to make some machine learning models using TF. All of these video clips and codes are authorized by Sung Kim. Enjoy studying machine learning!*
 
 ---
 
