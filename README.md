@@ -22,3 +22,6 @@
 
 [Exercise using TF - Minimizing Cost show graph](https://github.com/ameliachoi/deep-learning-zero-to-all/blob/master/TensorFlow_lab_03_1.ipynb)
 
+[Exercise using TF - Minimizing Cost Gradient Update](https://github.com/ameliachoi/deep-learning-zero-to-all/blob/master/TensorFlow_lab_03_2.ipynb)
+
+[Exercise using TF - Minimizing Cost TF Optimizer](https://github.com/ameliachoi/deep-learning-zero-to-all/blob/master/TensorFlow_lab_03_3.ipynb)
