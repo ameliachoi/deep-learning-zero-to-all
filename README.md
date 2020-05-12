@@ -15,3 +15,5 @@
 [Exercise using TF - Linear Regression](https://github.com/ameliachoi/deep-learning-zero-to-all/blob/master/TensorFlow_lab_02_1.ipynb)
 
 [Exercise using TF - Linear Regression Feed](https://github.com/ameliachoi/deep-learning-zero-to-all/blob/master/TensorFlow_lab_02_2.ipynb)
+
+[Exercise using TF - Linear Regression TensorFlow.org](https://github.com/ameliachoi/deep-learning-zero-to-all/blob/master/TensorFlow_lab_02_3.ipynb)
