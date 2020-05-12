@@ -17,3 +17,8 @@
 [Exercise using TF - Linear Regression Feed](https://github.com/ameliachoi/deep-learning-zero-to-all/blob/master/TensorFlow_lab_02_2.ipynb)
 
 [Exercise using TF - Linear Regression TensorFlow.org](https://github.com/ameliachoi/deep-learning-zero-to-all/blob/master/TensorFlow_lab_02_3.ipynb)
+
+## Lab 3. Minimizing Cost
+
+[Exercise using TF - Minimizing Cost show graph](https://github.com/ameliachoi/deep-learning-zero-to-all/blob/master/TensorFlow_lab_03_1.ipynb)
+
